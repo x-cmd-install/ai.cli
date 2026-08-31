@@ -1,0 +1,58 @@
+about:
+  description:  🤖 AI-powered CLI chatbot with multi-provider support, tool-calling capabilities, streaming output, and vision input. Built in C++20.
+  license: NOASSERTION
+  homepage: 
+  head: 6fbd150
+  archived: false
+  latestVersion: v0.0.27
+  collectedAt: 2026-08-31T05:20:32Z
+timeline:
+  created: 2025-04-21
+  lastCommit: 2026-08-16
+  lastRelease: 2026-08-13
+popularity:
+  star: 4
+  watcher: 1
+  fork: 1
+  release: 19
+  contributor: 1
+  pullRequest: 0
+  issue: 0
+language:
+  C++: 980743
+  CMake: 17738
+  Vim Script: 61
+totalLine: 998542
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last90d:
+    since: 2026-06-02
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 36
+  last180d:
+    since: 2026-03-04
+    release: 19
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 346
+  last360d:
+    since: 2025-09-05
+    release: 19
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 351
